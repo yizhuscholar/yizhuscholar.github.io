@@ -1,5 +1,5 @@
 ## Yi Zhu
-## [page1](https:yizhuscholar.gitgub.io/yizhuscholar.github.io/Research.html)
+## [page1](https://yizhuscholar.github.io/Research.html)
 
 You can use the [editor on GitHub](https://github.com/yizhuscholar/yizhuscholar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
